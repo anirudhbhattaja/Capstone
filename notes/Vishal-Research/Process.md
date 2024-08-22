@@ -33,6 +33,8 @@
        - Develop a separate model or an additional output layer in the action recognition model to specifically detect knockdowns.
      - **Training:**
        - Train on annotated knockdown frames, ensuring the model distinguishes between knockdowns and other actions.
+      
+       - Similar approach for cut detection
 
 ### 4. **Model Integration and Fine-Tuning**
    - **Multi-Task Learning (Optional):**
